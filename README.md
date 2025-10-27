@@ -137,8 +137,8 @@ The experiments show that **ViHealthBERT** achieves higher precision, recall, an
 ![alt text](Models/Result/image-1.png)
 | Model | Macro Precision | Macro Recall | Macro F1 | Micro Precision | Micro Recall | Micro F1 | Weighted Precision | Weighted Recall | Weighted F1 |
 |:------|:----------------:|:-------------:|:---------:|:----------------:|:-------------:|:---------:|:-------------------:|:----------------:|:-------------:|
-| **XLM-RoBERTa-Base** | **0.6630** | **0.7583** | **0.6817** | **0.8910** | **0.8716** | **0.8812** | **0.9095** | **0.8910** | **0.8978** |
-| ViHealthBERT-Base-Word | 0.5748 | 0.6934 | 0.5979 | 0.8841 | 0.8632 | 0.8735 | 0.9087 | 0.8841 | 0.8934 |
+| XLM-RoBERTa-Base | 0.6630 | 0.7583 | 0.6817 | 0.8910 | 0.8716 | 0.8812 | 0.9095 | 0.8910 | 0.8978 |
+| **ViHealthBERT-Base-Word** | **0.6848** | **0.7734** | **0.7264** | **0.9041** | **0.8832** | **0.8935** | **0.9087** | **0.9035** | **0.9061** |
 
 
 ---
